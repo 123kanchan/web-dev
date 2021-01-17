@@ -1,2 +1,2 @@
 # web-dev
-web development codes.
+web development codes ,6 sem
