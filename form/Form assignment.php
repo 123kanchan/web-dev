@@ -3,7 +3,7 @@
         <title>Form Data on Table</title>
     </head>
     <body>
-        <form method="POST" action="form.php">
+        <form method="POST" action="form assignment.php">
             Name*<input type="text" name="name" placeholder="First Name" required/><br>
             E-mail*<input type="email" name="mail" placeholder="Mail@example.com"required/><br>
             Contact No.*<input type="contact" name="contact" placeholder="Phone Number" required/><br>
